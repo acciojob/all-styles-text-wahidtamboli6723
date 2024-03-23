@@ -1,8 +1,8 @@
 .main{
 	width:200px;
-     background-color:purple;
-	border-left-width: 0px;
-	border-left:5px;
+    background-color: purple;
+	
+	border-left:5px solid green;
 	padding:10px;
 }
 .heading{
